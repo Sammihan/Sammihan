@@ -1,5 +1,5 @@
 👋 Hi, I'm Sammihan Takale
-Forth-Year Computer Science Engineering Student | ML & NLP Enthusiast | Building Real-World AI Applications
+Fourth-Year Computer Science Engineering Student | ML & NLP Enthusiast | Building Real-World AI Applications
 📍 Pune, Maharashtra, India | 📧 samihantakale@gmail.com | 🔗 LinkedIn
 
 🎯 About Me
